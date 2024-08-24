@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    margin: auto;
+    width: 20rem;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+}
